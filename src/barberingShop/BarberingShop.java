@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 public class BarberingShop {
 
-    private static String operationPerformed;
+    private String operationPerformed;
     private final ArrayList<Client> chairs;
 
     private int assignVIPIdentity;
